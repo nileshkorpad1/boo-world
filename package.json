@@ -1,0 +1,14 @@
+{
+  "name": "boo-world",
+  "version": "1.0.0",
+  "description": "Coding Test for Backend Developer",
+  "main": "index.js",
+  "repository": "https://github.com/nileshkorpad1/boo-world.git",
+  "author": "Nilesh Korpad <nileshkorpad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb-memory-server": "^9.1.6",
+    "mongoose": "^8.1.1"
+  }
+}
